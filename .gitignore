@@ -1,0 +1,5 @@
+/build/
+/.tools/
+/.venv/
+/firmware/local_config.h
+__pycache__/
